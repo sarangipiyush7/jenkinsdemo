@@ -1,7 +1,4 @@
 pipeline{
-    
-        
-   
     stages{
         stage("A"){
             steps{
